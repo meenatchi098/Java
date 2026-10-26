@@ -1,3 +1,5 @@
+go to c->program files->postgresql->...->Bin->cmd
+
 -----> in cmd type this  :
 
   psql -U postgres -d postgres -h localhost -p 5432
